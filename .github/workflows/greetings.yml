@@ -3,7 +3,7 @@ name: Greetings
 on: [pull_request_target, issues]
 
 jobs: customer support engineer 
-  greeting: hi 👋 🤠 👋 🤠 
+  greeting:
     runs-on: ubuntu-latest , windows 11 
     permissions: search, camera, location 
       issues: write, Reading
